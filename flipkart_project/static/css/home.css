@@ -1,0 +1,27 @@
+
+.navbar{
+    background-color: #2774f0;
+    color:#f0f0f0;
+}
+
+*{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    
+    
+}
+.d-flex{
+    align-items: center;
+}
+
+.add-btn{
+font-size: 15px;
+background-color: #030303;
+color: #e6dede;
+font-weight: bold;
+}
+
+h5{
+    font-size: 14px;
+}
